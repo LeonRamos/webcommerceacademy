@@ -1,11 +1,12 @@
 
 <p align="center">
-  <img src="adev/src/assets/images/press-kit/angular_icon_gradient.gif" alt="angular-logo" width="120px" height="120px"/>
+ 
   <br>
   <em>Angular es una plataforma de desarrollo para construir aplicaciones web móviles y de escritorio.
     <br> usando TypeScript/JavaScript y otros lenguajes.</em>
   <br>
 </p>
+![](./Images/angular_icon_gradient.gif)
 
 Crear un eCommerce efectivo en Angular 17 implica tener en cuenta varias técnicas y recomendaciones para garantizar una experiencia de usuario fluida y funcionalidad adecuada. Aquí te proporciono algunas sugerencias:
 
