@@ -6,7 +6,7 @@ Before you start, you need to install and configure the tools:
 * [git](https://git-scm.com/)
 * [Node.js and npm](https://nodejs.org/)
 * [[Angular CLI](https://angular.io/cli)]
-([![YouTube](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://youtu.be/CgND0FEzmWI?si=oiqRNJEnTZU68PDp))
+[![YouTube](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://youtu.be/CgND0FEzmWI?si=oiqRNJEnTZU68PDp)
 * [Docker Engine](https://docs.docker.com/engine/install/)
 * IDE (e.g. [Visual Studio Code](https://code.visualstudio.com/))
 https://youtu.be/GsnhSTATwOU?si=GebBTXsrWoHtObls
