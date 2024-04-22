@@ -36,3 +36,6 @@ Crear un eCommerce efectivo en Angular 17 implica tener en cuenta varias técnic
    - Establece un plan de mantenimiento regular para aplicar actualizaciones de seguridad, correcciones de errores y mejoras de rendimiento.
 
 Al seguir estas técnicas y recomendaciones, podrás crear un eCommerce efectivo en Angular 17 que ofrezca una experiencia de usuario óptima y cumpla con los estándares de seguridad y rendimiento necesarios para el éxito en línea.
+
+# Vista previa conceptual de su primera aplicación Angular
+![https://angular.io/tutorial/first-app#conceptual-preview-of-your-first-angular-app](./Images/homes-app-landing-page.png)
