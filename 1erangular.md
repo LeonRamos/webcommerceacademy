@@ -7,20 +7,18 @@ Before you start, you need to install and configure the tools:
 * [Node.js and npm](https://nodejs.org/)
 * [Angular CLI](https://angular.io/cli)
 * [Docker Engine](https://docs.docker.com/engine/install/)
-* [IDE (e.g. [Visual Studio Code](https://code.visualstudio.com/))
+* IDE (e.g. [Visual Studio Code](https://code.visualstudio.com/))
   
 
+## COMIENZO
 
 
-## Getting started
+### CREANDO UNA APLICACION EN ANGULAR
 
 
-### Create the Angular application
+[Angular](https://angular.io/) Angular es una plataforma de desarrollo para construir aplicaciones web, móviles y de escritorio utilizando HTML, CSS y TypeScript (JavaScript). Actualmente, Angular se encuentra en la versión 17 y Google es el principal mantenedor del proyecto.
 
-
-[Angular](https://angular.io/) is a development platform for building WEB, mobile and desktop applications using HTML, CSS and TypeScript (JavaScript). Currently, Angular is at version 17 and Google is the main maintainer of the project.
-
-**1.** Let's create the application with the Angular base structure using the `@angular/cli` with the server-side rendering (SSR) disabled, the route file and the SCSS style format.
+**1.** Creemos la aplicación con la estructura base de Angular utilizando @angular/cli, con la representación del lado del servidor (SSR) deshabilitada, el archivo de rutas y el formato de estilo SCSS.
 
 ```powershell
 ng new angular-docker --ssr false --routing true --style scss
@@ -50,7 +48,7 @@ CREATE angular-docker/src/assets/.gitkeep (0 bytes)
     Successfully initialized git.
 ```
 
-**2.** Now we will run the application with the command below.
+**2.** Ahora ejecutaremos la aplicación con el siguiente comando
 
 ```powershell
 npm start
@@ -71,9 +69,10 @@ Watch mode enabled. Watching for file changes...
   ➜  Local:   http://localhost:4200/
 ```
 
-**3.** Ready! Next, we will access the URL `http://localhost:4200/` and check if the application is working.
-[![YouTube](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://youtu.be/CgND0FEzmWI?si=oiqRNJEnTZU68PDp)
-[![YouTube](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://youtu.be/GsnhSTATwOU?si=GebBTXsrWoHtObls)
-[![YouTube](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://youtu.be/K71m7H_P7XE?si=YSbn_2Wn4l_2GjUc)
+**3.** A continuación, accederemos a la URL DEL LOCALHOST y comprobaremos si la aplicación está funcionando.
+
+**4.** Instalación [![YouTube](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://youtu.be/CgND0FEzmWI?si=oiqRNJEnTZU68PDp)
+**5.**[![YouTube](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://youtu.be/GsnhSTATwOU?si=GebBTXsrWoHtObls)
+**6.**[![YouTube](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://youtu.be/K71m7H_P7XE?si=YSbn_2Wn4l_2GjUc)
 
 
