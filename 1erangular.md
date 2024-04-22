@@ -9,7 +9,7 @@ Before you start, you need to install and configure the tools:
 [![YouTube](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://youtu.be/CgND0FEzmWI?si=oiqRNJEnTZU68PDp)
 * [Docker Engine](https://docs.docker.com/engine/install/)
 * IDE (e.g. [Visual Studio Code](https://code.visualstudio.com/))
-[<a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?style=social&logoColor=black&label=Subscribe#"/></a>(https://youtu.be/GsnhSTATwOU?si=GebBTXsrWoHtObls)
+![YOUTUBE](https://youtu.be/GsnhSTATwOU?si=GebBTXsrWoHtObls)
 
 
 
