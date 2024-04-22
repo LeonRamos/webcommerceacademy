@@ -24,4 +24,4 @@ El propósito de "WebCommerce Academy" es proporcionar a los alumnos una guia de
 ![javascript][JAVASCRIPT__BADGE]
 
 # Angular como herramienta aliada
-https://github.com/LeonRamos/webcommerceacademy/blob/main/AngularComoHerramientaEcomerce.md
+![ANGULAR](https://github.com/LeonRamos/webcommerceacademy/blob/main/AngularComoHerramientaEcomerce.md)
