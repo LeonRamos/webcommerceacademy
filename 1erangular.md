@@ -6,10 +6,10 @@ Before you start, you need to install and configure the tools:
 * [git](https://git-scm.com/)
 * [Node.js and npm](https://nodejs.org/)
 * [Angular CLI](https://angular.io/cli)
-* https://youtu.be/CgND0FEzmWI?si=oiqRNJEnTZU68PDp
+https://youtu.be/CgND0FEzmWI?si=oiqRNJEnTZU68PDp
 * [Docker Engine](https://docs.docker.com/engine/install/)
 * IDE (e.g. [Visual Studio Code](https://code.visualstudio.com/))
-* https://youtu.be/GsnhSTATwOU?si=GebBTXsrWoHtObls
+https://youtu.be/GsnhSTATwOU?si=GebBTXsrWoHtObls
 
 
 
@@ -74,6 +74,6 @@ Watch mode enabled. Watching for file changes...
 
 **3.** Ready! Next, we will access the URL `http://localhost:4200/` and check if the application is working.
 
-![YOUTOBE] (https://youtu.be/K71m7H_P7XE?si=YSbn_2Wn4l_2GjUc)
+![YOUTUBE](https://youtu.be/K71m7H_P7XE?si=YSbn_2Wn4l_2GjUc)
 
 
