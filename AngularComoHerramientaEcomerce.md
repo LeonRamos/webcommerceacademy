@@ -39,4 +39,6 @@ Al seguir estas técnicas y recomendaciones, podrás crear un eCommerce efectivo
 
 # Vista previa conceptual de tu primera aplicación Angular
 [ANGULAR__BADGE]: https://angular.io/tutorial/first-app#conceptual-preview-of-your-first-angular-app
+![angular][ANGULAR__BADGE]
+
 ![](./Images/homes-app-landing-page.png)
