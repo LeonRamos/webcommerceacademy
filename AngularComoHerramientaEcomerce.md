@@ -1,4 +1,5 @@
-Crear un eCommerce efectivo en Angular 17 implica tener en cuenta varias técnicas y recomendaciones para garantizar una experiencia de usuario fluida y funcionalidad adecuada. Aquí te proporciono algunas sugerencias:
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)Crear un eCommerce efectivo en Angular 17 implica tener en cuenta varias técnicas y recomendaciones para garantizar una experiencia de usuario fluida y funcionalidad adecuada. Aquí te proporciono algunas sugerencias:
 
 1. **Arquitectura y Estructura:**
    - Utiliza una estructura modular para organizar tu aplicación Angular, separando componentes, servicios y módulos de forma lógica.
