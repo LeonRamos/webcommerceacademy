@@ -5,11 +5,10 @@ Before you start, you need to install and configure the tools:
 
 * [git](https://git-scm.com/)
 * [Node.js and npm](https://nodejs.org/)
-* [[Angular CLI](https://angular.io/cli)]
-[![YouTube](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://youtu.be/CgND0FEzmWI?si=oiqRNJEnTZU68PDp)
+* [Angular CLI](https://angular.io/cli)
 * [Docker Engine](https://docs.docker.com/engine/install/)
-* [[IDE (e.g. [Visual Studio Code](https://code.visualstudio.com/))]
-  (https://youtu.be/GsnhSTATwOU?si=GebBTXsrWoHtObls)
+* [IDE (e.g. [Visual Studio Code](https://code.visualstudio.com/))
+  
 
 
 
@@ -73,7 +72,8 @@ Watch mode enabled. Watching for file changes...
 ```
 
 **3.** Ready! Next, we will access the URL `http://localhost:4200/` and check if the application is working.
-
-![YOUTUBE](https://youtu.be/K71m7H_P7XE?si=YSbn_2Wn4l_2GjUc)
+[![YouTube](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://youtu.be/CgND0FEzmWI?si=oiqRNJEnTZU68PDp)
+[![YouTube](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://youtu.be/GsnhSTATwOU?si=GebBTXsrWoHtObls)
+[![YouTube](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://youtu.be/K71m7H_P7XE?si=YSbn_2Wn4l_2GjUc)
 
 
