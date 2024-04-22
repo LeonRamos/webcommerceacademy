@@ -5,13 +5,13 @@ El propósito de "WebCommerce Academy" es proporcionar a los alumnos una guia de
 
 # Metodologia Agil "Ideas de Base Tecnologica (IBT)"
 
-[![npm license][npm-badge-license]][npm-badge-url]
-[![npm version][npm-badge-version]][npm-badge-url]
-[![npm monthly downloads][npm-badge-downloads]][npm-badge-url]
-[![code coverage][codecov-badge]][codecov-badge-url]
+[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
+[TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
+[ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
+[PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
+[PROJECT__URL]: https://landing-page-ssr.vercel.app/
 
-> Allows us to check if an element is within the browsers visual viewport
 
-- 🤓 Learn about it on the [Docs Site][lib-docs]
-- 🚀 See it in action on the [Examples Site][example-app]
-- 🎮 Play with it on [Stackblitz][example-app-embed]
+![angular][ANGULAR__BADGE]
+![typescript][TYPESCRIPT__BADGE]
+![javascript][JAVASCRIPT__BADGE]
